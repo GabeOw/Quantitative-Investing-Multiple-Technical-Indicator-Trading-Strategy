@@ -1,4 +1,4 @@
-# Quantitative-Investing-Trading-Strategy Project
+# Quantitative Investing Multi Technical Indicator Trading Strategy
 
 ## Introduction 
 

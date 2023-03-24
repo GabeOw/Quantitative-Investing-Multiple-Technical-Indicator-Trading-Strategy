@@ -22,7 +22,7 @@
 ## Risk-Managemnent, Weighting Strategy
 We employ the efficient frontier technique and plot returns against volatility to optimize our portfolio's risk and return. We use the Sharpe ratio to identify the optimal risky portfolio with the highest expected return for each risk level, while considering a risk-free rate of 0.01.
 
-##Results and Conclusion
+## Results and Conclusion
 - Our trading strategy outperformed a buy and hold SPY strategy over the years 2000-01-01 to present day by 2235.51%. The addition of indicators, risk management, and weighting proved very useful in predicting buying and selling opportunities. 
   - Improvements to our model and realistic next steps could include:
   -  Testing and comparing various time periods

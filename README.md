@@ -1,4 +1,4 @@
-# Quantitative Investing Multiple Technical Indicator Trading Strategy
+# Quantitative Investing: Multiple Technical Indicator Trading Strategy
 
 ## Introduction 
 
